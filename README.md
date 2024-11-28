@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishxix
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning phyton 
+- 🌱 I’m currently learning Python & Flask
 - 💞️ I’m looking to collaborate on various softwares
 - 📫 You can reach me through my email aishmuhammad388@gmail.com
 - 😄 Pronouns: 
