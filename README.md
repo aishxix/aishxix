@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python & Flask
 - 💞️ I’m looking to collaborate on various softwares
 - 📫 You can reach me through my email aishmuhammad388@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: i like to create stuff
 
 <!---
