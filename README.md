@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aishxix
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python & Flask
+- 🌱 I’m currently doing DSA in JAVA
+- 🌱 I’m recently learned Python & Flask
 - 💞️ I’m looking to collaborate on various softwares
 - 📫 You can reach me through my email aishmuhammad388@gmail.com
 - 😄 Pronouns: He/Him
